@@ -1,6 +1,6 @@
 <img src="Pics/Header.png" width="808" height="422">
 
-
+# Excel VBA Scripting Challenge
 
 ## Background
 For this assignment we were tasked to write VBA script that loops through stock data for multiple years, creating a summary table that identifies each stocks ticker symbol, yearly change and color the cell green if the data is positive and red is negative, calculate the percentage of the change, and the total stock volume for the year.  Once the information is tabulated for each individual stock, the code will identify the stock on the sheet with the Greatest % Increase, Greatest % Decrease, and the Greatest Total Volume.  This VBA code will examine multiple years of data producing the desired results on separate sheets in the workbook for the years 2018, 2019 & 2020.
