@@ -14,16 +14,18 @@ For this assignment we were tasked to write VBA script that loops through stock 
 * Stock Ticker Name and Percent Change in the Stock Price that had the Greatest Increase, Greatest Decrease and Greatest Volume for the year.  
 
 
-
+<br>
 
 2018 - Of the 3000 individual stock tickers examined for 2018, 1507 stocks (50.23%) had a negative year while 1493 stocks (49.76%) had a positive year.  
 <img src="Pics/2018 Results.png" width="844" height="387">
 
-
+<br>
 
 2019 - Of the 3000 individual stock tickers examined in 2019, 1574 stocks (52.46%) had a negative year while 1426 stocks (47.53%) had a positive year.  
 <img src="Pics/2019 Results.png" width="852" height="376">
 
+
+<br>
 
 2020 – Of the 3000 individual stock tickers examined in 2020, 1516 stocks (50.53%) had a negative year while 1484 stocks (49.46%) had a positive year.  
 <img src="Pics/2020 Results.png" width="843" height="378">
