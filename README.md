@@ -8,13 +8,13 @@ For this assignment we were tasked to write VBA script examining 3000 individual
 
 #### Yearly Table Data:
 * Stock Ticker Name
-* Yearly change in the Stock Price (+Green/- Red)
+* Yearly Change in the Stock Price (+Green/- Red)
 * Yearly Percent Change in the Stock Price
 * Yearly Total Stock Volume 
 
 #### Summery Table Data:
 * Stock Ticker Name
-* Yearly change in the Stock Price
+* Yearly Change in the Stock Price
 * Yearly Percent Change in the Stock Price 
 
 
