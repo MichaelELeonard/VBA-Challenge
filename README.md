@@ -14,8 +14,9 @@ For this assignment we were tasked to write VBA script examining 3000 individual
 
 #### Summery Table Data:
 * Stock Ticker
-* Yearly Change in the Stock Price
-* Yearly Percent Change in the Stock Price 
+* Yearly Greatest % Increase Value
+* Yearly Greatest % Decrease Value
+* Yearly Greatest Total Volume
 
 
 ## Results
