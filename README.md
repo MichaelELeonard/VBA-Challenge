@@ -25,13 +25,11 @@ For this assignment we were tasked to write VBA script examining 3000 individual
 ## 2018 
 <img src="Pics/2018 Results.png" width="844" height="387">
 
-<br>
 
 ## 2019
 <img src="Pics/2019 Results.png" width="852" height="376">
 
 
-<br>
 
 ## 2020
 <img src="Pics/2020 Results.png" width="843" height="378">
