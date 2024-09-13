@@ -20,7 +20,7 @@ For this assignment we were tasked to write VBA script examining 3000 individual
 
 
 ## Results
-3000 individual stocks were examined for the years 2018, 2019 & 2020.  Yearly results as follows:
+3000 individual stocks were examined for the years 2018, 2019 & 2020.  Yearly results:
 
 
 ## 2018 
