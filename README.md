@@ -4,7 +4,7 @@
 VBA Script Code - https://github.com/MichaelELeonard/VBA-challenge/blob/main/Module%202%20challenge%20VBA%20Script%20Files.vbs
 
 ## Background
-For this challenge we were tasked to write VBA script examining 3000 individual stocks for the years 2018, 2019 & 2020.  The code will update yearly totals and produce a summary table that will identify the ticker symbols with the greatest % increase, greatest % decrease, and greatest total volume for the calendar year.
+For this challenge we were tasked to write VBA script examining 3000 individual stocks for the years 2018, 2019 & 2020.  The code will track yearly totals and produce a summary table that will identify the ticker symbols with the greatest % increase, greatest % decrease, and greatest total volume for the calendar year.
 
 #### Yearly Table Data:
 * Stock Ticker
